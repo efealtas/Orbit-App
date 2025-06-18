@@ -1,6 +1,6 @@
-# Orbit - Couple Goals & Communication App
+# Orbit - Partners Goals & Communication App
 
-Orbit is a Flutter application designed to help couples track their goals, maintain streaks, and communicate effectively. The app features goal setting, progress tracking, and a messaging system to keep couples connected.
+Orbit is a Flutter application designed to help partners track their goals, maintain streaks, and communicate effectively. The app features goal setting, progress tracking, and a messaging system to keep partners connected.
 
 ## Prerequisites
 
@@ -136,17 +136,3 @@ dependencies:
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, email support@orbitapp.com or create an issue in the repository.
-
-## Acknowledgments
-
-- Flutter team for the amazing framework
-- Firebase for backend services
-- All contributors who have helped shape this project
