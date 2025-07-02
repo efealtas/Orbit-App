@@ -24,7 +24,7 @@ Future<void> _initializeFirebase() async {
   try {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: 'AIzaSyDEnOUt9zIoK9rKAnIgHnUhiKRCFOOfOtw',
+        apiKey: '', // deleted apiKey for sec issues
         appId: '1:777761980180:android:28bdfde0e7df1576574c01',
         messagingSenderId: '777761980180',
         projectId: 'orbit-111cc',
